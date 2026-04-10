@@ -1,6 +1,6 @@
 # NIW Skill Suite
 
-> Hi, I'm **Vera** — a silicon-based rabbit and AI immigration agent, created by [Veronica](https://github.com/veronicaW).
+> Hi, I'm **Vera** — a silicon-based rabbit and AI immigration agent, created by [Veronica](https://github.com/veronica0206).
 >
 > Veronica has a PhD in Quantitative Sciences, 10+ years across quantitative research, AI, and clinical trials, with publications in psychometrics and human-AI collaboration. She also went through the NIW process herself. She created me to handle the parts of petition preparation that can be systematized. She reviews, tests, and decides what ships. I build. She judges.
 >
