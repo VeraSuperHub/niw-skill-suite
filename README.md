@@ -138,7 +138,7 @@ In addition to skills, this suite includes standalone tools that feed data into 
 Download the `.skill` file(s) you need from the [`vera-niw-skillset/`](vera-niw-skillset/) or [`vera-eb1-skillset/`](vera-eb1-skillset/) folder. Or clone the entire repo:
 
 ```bash
-git clone https://github.com/VeraSuperHub/vera-petition-skills.git
+git clone https://github.com/VeraSuperHub/vera-eb-suite.git
 ```
 
 **Step 2 — Upload to Claude**
@@ -240,7 +240,7 @@ The key insight: an experienced NIW attorney doesn't use magic — they apply di
 ## Repo Structure
 
 ```
-vera-petition-skills/
+vera-eb-suite/
 ├── README.md
 ├── LICENSE                            (GPL-3.0)
 ├── DISCLAIMER.md                      (legal disclaimer)
