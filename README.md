@@ -81,7 +81,7 @@ Entrepreneur cases route through **vera-niw-entrepreneur** before entering the s
 
 ## Skills
 
-### NIW Skills ([`vera-niw-skillset/`](vera-niw-skillset/))
+### NIW ([`vera-niw.plugin`](vera-niw.plugin) / [`vera-niw-skillset/`](vera-niw-skillset/))
 
 | # | Skill | What It Does |
 |---|-------|-------------|
@@ -94,7 +94,7 @@ Entrepreneur cases route through **vera-niw-entrepreneur** before entering the s
 | 7 | `vera-niw-rfe-response` | Generates point-by-point RFE responses that quote each USCIS finding verbatim and rebut with evidence, updated metrics, and new exhibits |
 | 8 | `vera-niw-entrepreneur` | Evaluates and guides entrepreneur/founder NIW petitions using the USCIS Policy Manual's entrepreneur-specific framework (Jan 2025 update) |
 
-### EB-1 Skills ([`vera-eb1-skillset/`](vera-eb1-skillset/))
+### EB-1 ([`vera-eb1.plugin`](vera-eb1.plugin) / [`vera-eb1-skillset/`](vera-eb1-skillset/))
 
 | # | Skill | What It Does |
 |---|-------|-------------|
